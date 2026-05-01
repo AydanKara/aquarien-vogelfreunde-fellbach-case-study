@@ -251,27 +251,58 @@ This structure separates the public association website from protected admin wor
 
 ## Screenshots
 
-Screenshots can be added here without exposing private source code.
+### Desktop Homepage
 
-Recommended structure:
+<img src="./screenshots/homepage-desktop-aquarien.png" alt="Aquarien- und Vogelfreunde Fellbach desktop homepage hero" width="100%" />
 
-```text
-screenshots/
-├── homepage-desktop.png
-├── homepage-mobile.png
-├── events-page.png
-├── gallery-page.png
-├── chronicle-page.png
-├── admin-dashboard.png
-└── contact-page.png
-```
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./screenshots/homepage-desktop-aquarien2.png" alt="Aquarien- und Vogelfreunde Fellbach desktop homepage section" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="./screenshots/homepage-desktop-aquarien3.png" alt="Aquarien- und Vogelfreunde Fellbach desktop homepage content section" width="100%" />
+    </td>
+  </tr>
+</table>
 
-Example usage after adding screenshots:
+### Mobile Experience
 
-```md
-![Aquarien- und Vogelfreunde Fellbach Homepage Desktop](./screenshots/homepage-desktop.png)
-![Aquarien- und Vogelfreunde Fellbach Admin Dashboard](./screenshots/admin-dashboard.png)
-```
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="./screenshots/homepage-mobile-aquarien.png" alt="Aquarien- und Vogelfreunde Fellbach mobile homepage screen 1" width="180" />
+    </td>
+    <td width="25%" align="center">
+      <img src="./screenshots/homepage-mobile-aquarien2.png" alt="Aquarien- und Vogelfreunde Fellbach mobile homepage screen 2" width="180" />
+    </td>
+    <td width="25%" align="center">
+      <img src="./screenshots/homepage-mobile-aquarien3.png" alt="Aquarien- und Vogelfreunde Fellbach mobile homepage screen 3" width="180" />
+    </td>
+    <td width="25%" align="center">
+      <img src="./screenshots/homepage-mobile-aquarien4.png" alt="Aquarien- und Vogelfreunde Fellbach mobile homepage screen 4" width="180" />
+    </td>
+  </tr>
+</table>
+
+### Events & Gallery
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./screenshots/events-page.png" alt="Aquarien- und Vogelfreunde Fellbach events page" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="./screenshots/events-page2.png" alt="Aquarien- und Vogelfreunde Fellbach second events page view" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<img src="./screenshots/gallery-page.png" alt="Aquarien- und Vogelfreunde Fellbach gallery page" width="100%" />
+
+### Admin Dashboard
+
+<img src="./screenshots/admin-dashboard.png" alt="Aquarien- und Vogelfreunde Fellbach admin dashboard" width="100%" />
 
 ---
 
